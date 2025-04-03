@@ -1,3 +1,5 @@
+This is the recepie on how to clean a dataset in Openrefine.
+
 Input files:
 - samples_openrefine_lesson.csv -- the messy dataset from the OpenRefine lesson 
 - data_cleaning_script.txt -- the OpenRefine operations you've extracted
